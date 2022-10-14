@@ -1,3 +1,5 @@
 URL
 
 https://naiveskill.com/jenkins-pipeline-if-statement/#:~:text=Jenkins%20pipeline%20multiple%20if%20statement,if%2Delse%20blocks%20in%20Jenkins.&text=else%20%7B-,sh%20%22echo%20'Hello%20from%20%24%7Benv.,BRANCH_NAME%7D%20branch!
+
+https://www.jenkins.io/doc/pipeline/tour/environment/
